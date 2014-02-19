@@ -1,4 +1,4 @@
 affy_reader
 ===========
 
-Python scripts for parsering affymetrix array cel and cdf files
+Python scripts for parsing affymetrix array cel and cdf files
